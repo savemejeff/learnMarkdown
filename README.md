@@ -317,3 +317,19 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 |台湾|85|438|6|
 |陕西|40|306|3|
 |内蒙古|40|201|1|
+
+## 9、HTML标签
+
+正如前文所说，markdown没有直接实现下划线，但可以通过HTML的`<u>`标签实现下划线。其他的HTML标签也可以直接在markdown中使用。
+
+比如前文的图片，也可以直接使用`<img>`标签实现。
+
+```html
+<img src="https://www.baidu.com/img/baidu_jgylogo3.gif" title="狗爪" alt="百度">
+```
+
+效果如下：
+
+<img src="https://www.baidu.com/img/baidu_jgylogo3.gif" title="狗爪" alt="百度">
+
+_和![]()的效果相同。_
