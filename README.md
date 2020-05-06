@@ -332,4 +332,4 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 
 <img src="https://www.baidu.com/img/baidu_jgylogo3.gif" title="狗爪" alt="百度">
 
-_和![]()的效果相同。_
+_和`![]()`的效果相同。_
